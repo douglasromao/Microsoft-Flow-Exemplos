@@ -20,3 +20,4 @@ Estamos montando uma equipe para fazer as revisões das Pull Requests, assim, se
 Se você deseja fazer parte da equipe de revisão, vá até a parte de Pull Requests e comente em alguma que esteja com a tag "revisar" que organizaremos para que você faça essa revisão 😄
 
 
+
