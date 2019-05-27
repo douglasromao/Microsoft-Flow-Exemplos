@@ -1,4 +1,4 @@
-# Microsoft-Flow-Samples
+# Fluxos de Exemplo do Microsoft Flow
 
 O objetivo desse repositório é juntar ideias e modelos de Fluxos desenvolvidos no Microsoft Flow de forma que tenhamos uma base de conhecimento para a comunidade aprender e executar fluxos de forma simples e prática.
 
@@ -7,11 +7,11 @@ Let's share!
 ### Como contribuir com exemplos?
 
 
-✅ Faça o clone do repositório;
+🔲  Faça o clone do repositório;
 
-✅ Crie uma branch com o que você deseja adicionar (lembre-se de criar uma branch com um nome que seja fácil para validarmos posteriormente e fazermos o merge)
+🔲  Crie uma branch com o que você deseja adicionar (lembre-se de criar uma branch com um nome que seja fácil para validarmos posteriormente e fazermos o merge)
 
-✅ Assim que terminar, faça uma pull request 💪
+🔲  Assim que terminar, faça uma pull request 💪
 
 ### Como contribuir com a revisão?
 
