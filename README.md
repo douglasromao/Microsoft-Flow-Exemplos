@@ -11,7 +11,7 @@ Let's share!
 
 🔲  Crie uma branch com o que você deseja adicionar (lembre-se de criar uma branch com um nome que seja fácil para validarmos posteriormente e fazermos o merge)
 
-🔲  Assim que terminar, faça uma pull request 💪
+🔲  Faça uma pull request 💪
 
 ### Como contribuir com a revisão?
 
